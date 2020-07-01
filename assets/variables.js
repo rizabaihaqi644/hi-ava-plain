@@ -38,11 +38,6 @@ const particlesConfig = {
       polygon: {
         nb_sides: 5,
       },
-      image: {
-        src: "./assets/heart.png",
-        width: 50,
-        height: 50,
-      },
     },
     opacity: {
       value: 0.5,
